@@ -57,4 +57,3 @@ If you want, I can:
 - add a concise spec table with exact figures for US/Japan/EU market variants,
 - include a short ownership checklist for buyers (common issues to inspect), or
 - produce a short, publication-ready paragraph to use in listings.
-
