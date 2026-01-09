@@ -4,9 +4,27 @@
 
 ## Introduction
 
+<<<<<<< HEAD
+### Engine & Performance 🔧⚡
+
+The GT3 RS is powered by a naturally aspirated 4.0-liter (3996 cc) flat-six (boxer) engine derived from Porsche's motorsport program. Key engine characteristics:
+- **Peak power:** ~520 hp (varies slightly by year and options)
+- **Peak torque:** ~346 lb-ft (≈470 Nm)
+- **Redline:** ~9,000 rpm — one of the highest among production cars; the engine is designed to thrive at high revs.
+- **Induction & breathing:** Naturally aspirated with individual throttle bodies and race-inspired intake tuning for immediate throttle response.
+- **Lubrication & cooling:** Motorsports-grade oiling (dry-sump on some variants) and enhanced cooling to sustain prolonged high-load track usage.
+- **Power delivery:** Linear and high-revving with strong mid-to-high rpm pull; power is concentrated at the top of the rev range which rewards keeping the revs high.
+- **Transmission options:** 6-speed manual for maximum driver involvement or optional 7-speed PDK dual-clutch for lightning-fast shifts and better straight-line acceleration.
+- **Performance figures:** 0–60 mph in about 3.0 s (PDK often slightly faster); top speed in excess of 193 mph; exceptional lap times due to the combination of power, low weight, and aero.
+- **Fuel & consumption:** Requires premium fuel; fuel consumption is high during spirited driving or on track.
+- **Track behavior:** Immediate throttle response, predictable power delivery, and strong braking compatibility due to torque curve and vehicle balance—ideal for experienced drivers seeking lap performance.
+
+These engine and drivetrain choices make the GT3 RS exceptional in both raw lap performance and driver engagement.
+=======
 The **Porsche 911 GT3 RS** represents the pinnacle of Porsche's commitment to high-performance, track-oriented sports cars. As a homologation special, it bridges the gap between road-legal vehicles and pure racing machines. Known for its naturally aspirated flat-six engine, lightweight construction, and exceptional handling, the GT3 RS has become a legend among enthusiasts and racers alike. Since its debut in 2003, it has evolved through multiple generations, each pushing the boundaries of performance and aerodynamics.
 
 ## History and Evolution
+>>>>>>> 735cf369f05f6bfa86a9f00c05dd504ca5178b54
 
 The GT3 RS lineage began with the **996-generation GT3 RS** in 2003, inspired by Porsche's racing heritage, including the iconic Carrera 2.7 RS from the 1970s. It featured distinctive blue or red wheels and "GT3 RS" side stickers, emphasizing its racing pedigree. This model was not sold in the US or Canada, with only 682 units produced.
 
