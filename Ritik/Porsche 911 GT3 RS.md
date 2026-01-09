@@ -1,6 +1,6 @@
 # Porsche 911 GT3 RS: The Ultimate Track-Focused Icon
 
-![Porsche 911 GT3 RS Overview](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Porsche_911_GT3_RS_-_Flickr_-_exfordy.jpg/800px-Porsche_911_GT3_RS_-_Flickr_-_exfordy.jpg)
+![Porsche 911 GT3 RS Overview](assets/images/Ritik/porsche_996_gt3_rs_exfordy.jpg)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ The **991-generation** marked a new era with the 991.1 GT3 RS (2015-2017) featur
 
 The latest **992-generation GT3 RS** (2022-present) generates 386 kW (525 PS) and 465 N⋅m of torque, with 860 kg of downforce at 285 km/h. It set a Nürburgring record of 6:44.848 minutes in 2022.
 
-![Porsche 911 GT3 RS (997) Front](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Porsche_911_%28997%29_GT3_RS_3.6_-_3_quart_avant.jpg/800px-Porsche_911_%28997%29_GT3_RS_3.6_-_3_quart_avant.jpg)
+![Porsche 911 GT3 RS (997) Front](assets/images/Ritik/gt3_rs_997_front.jpg)
 
 ## Engine and Performance
 
@@ -41,7 +41,7 @@ Exterior features include:
 
 The design emphasizes functionality over aesthetics, with subtle cues like the "GT3 RS" badging and sporty exhaust tips.
 
-![Porsche 911 GT3 RS (991) Rear](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2016_Porsche_911_GT3_RS_in_GT_Silver%2C_rear_left.jpg/800px-2016_Porsche_911_GT3_RS_in_GT_Silver%2C_rear_left.jpg)
+![Porsche 911 GT3 RS (991) Rear](assets/images/Ritik/gt3_rs_991_rear.jpg)
 
 ## Interior and Features
 
@@ -86,4 +86,11 @@ The Porsche 911 GT3 RS is more than a car—it's a statement of engineering exce
 
 For more details, visit the [Porsche official site](https://www.porsche.com) or [Wikipedia page](https://en.wikipedia.org/wiki/Porsche_911_GT3).
 
-![Porsche 911 GT3 RS (992)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Geneva_International_Motor_Show_2018%2C_Le_Grand-Saconnex_(1X7A0092).jpg/800px-Geneva_International_Motor_Show_2018%2C_Le_Grand-Saconnex_(1X7A0092).jpg)
+![Porsche 911 GT3 RS (992)](assets/images/Ritik/geneva_2018_gt3_rs.jpg)
+
+## Image credits
+
+- `assets/images/Ritik/porsche_996_gt3_rs_exfordy.jpg` — Brian Snelson (exfordy) / CC BY 2.0 (via Flickr, via Wikimedia Commons)
+- `assets/images/Ritik/gt3_rs_997_front.jpg` — The Car Spy / CC BY 2.0 (via Flickr, via Wikimedia Commons)
+- `assets/images/Ritik/gt3_rs_991_rear.jpg` — Mr.choppers / CC BY-SA 3.0 (via Wikimedia Commons)
+- `assets/images/Ritik/geneva_2018_gt3_rs.jpg` — Matti Blume / CC BY-SA 4.0 (via Wikimedia Commons)
