@@ -1,4 +1,4 @@
-1994 Toyota Supra (Mark IV / A80) — Overview and Specifications
+# 1994 Toyota Supra (Mark IV / A80) — Overview and Specifications
 
 Overview
 - Model year: 1994 (early A80 / Mark IV production)
