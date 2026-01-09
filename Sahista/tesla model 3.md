@@ -9,6 +9,7 @@ Regenerative braking helps extend driving range.
 The Performance variant delivers sports-car level acceleration.
 Standard models prioritize efficiency and daily usability.
 Safety ratings are among the best in its class.
+
 The electric powertrain requires less routine maintenance.
 Autopilot provides lane-keeping and adaptive cruise control.
 Customization includes wheel, paint, and interior options.
